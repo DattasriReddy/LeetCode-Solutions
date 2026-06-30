@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 ## Math
 |  |
 | ------- |
@@ -43,8 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
