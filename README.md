@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
