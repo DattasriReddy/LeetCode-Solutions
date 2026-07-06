@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 ## Tree
 |  |
 | ------- |
