@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 ## Sorting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 ## Tree
