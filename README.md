@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 ## Tree
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0300-longest-increasing-subsequence](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
