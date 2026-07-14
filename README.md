@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0168-excel-sheet-column-title](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0649-dota2-senate](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
