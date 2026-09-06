@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
