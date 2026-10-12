@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
