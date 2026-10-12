@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
