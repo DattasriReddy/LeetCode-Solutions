@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
