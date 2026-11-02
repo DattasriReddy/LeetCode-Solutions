@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## String
