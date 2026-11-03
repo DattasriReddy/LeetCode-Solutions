@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
