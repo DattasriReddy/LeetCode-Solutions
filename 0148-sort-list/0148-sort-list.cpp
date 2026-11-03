@@ -1,64 +1,60 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
+private:
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+        
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                tail->next = l1;
+                l1 = l1->next;
+            } else {
+                tail->next = l2;
+                l2 = l2->next;
+            }
+            tail = tail->next;
+        }
+        
+        tail->next = l1 ? l1 : l2;
+        return dummy.next;
+    }
+
 public:
     ListNode* sortList(ListNode* head) {
-        if(head == NULL || head ->next == NULL)
+        // Base case: if head is null or there is only one node
+        if (!head || !head->next) {
             return head;
-        ListNode *temp = NULL;
-        ListNode *slow = head;
-        ListNode *fast = head;
-        while(fast !=  NULL && fast -> next != NULL)
-        {
-            temp = slow;
-            slow = slow->next;          //slow increment by 1
-            fast = fast ->next ->next;  //fast incremented by 2
-            
-        }   
-        temp -> next = NULL;            //end of first left half
-        
-        ListNode* l1 = sortList(head);    //left half recursive call
-        ListNode* l2 = sortList(slow);    //right half recursive call
-        
-        return mergelist(l1, l2);         //mergelist Function call
-            
-    }
-    
-    //MergeSort Function O(n*logn)
-    ListNode* mergelist(ListNode *l1, ListNode *l2)
-    {
-        ListNode *ptr = new ListNode(0);
-        ListNode *curr = ptr;
-        
-        while(l1 != NULL && l2 != NULL)
-        {
-            if(l1->val <= l2->val)
-            {
-                curr -> next = l1;
-                l1 = l1 -> next;
-            }
-            else
-            {
-                curr -> next = l2;
-                l2 = l2 -> next;
-            }
-        
-        curr = curr ->next;
-        
         }
         
-        //for unqual length linked list
+        // Step 1. Find the middle of the list using slow and fast pointers
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = nullptr;
         
-        if(l1 != NULL)
-        {
-            curr -> next = l1;
-            l1 = l1->next;
+        while (fast && fast->next) {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
         
-        if(l2 != NULL)
-        {
-            curr -> next = l2;
-            l2 = l2 ->next;
-        }
+        // Split the list into two halves
+        prev->next = nullptr;
         
-        return ptr->next;
+        // Step 2. Recursively sort both halves
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(slow);
+        
+        // Step 3. Merge the sorted halves
+        return merge(left, right);
     }
 };
