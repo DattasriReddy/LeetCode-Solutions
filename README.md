@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0658-find-k-closest-elements](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0781-rabbits-in-forest](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
+| [0658-find-k-closest-elements](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -231,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
