@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0781-rabbits-in-forest](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0342-power-of-four](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0781-rabbits-in-forest](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0781-rabbits-in-forest](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0457-circular-array-loop](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0781-rabbits-in-forest](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/DattasriReddy/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
